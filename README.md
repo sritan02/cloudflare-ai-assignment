@@ -27,7 +27,7 @@ A conversational AI assistant powered by Cloudflare Workers AI and Llama 3.3 70B
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/sritan02/cloudflare-ai-assignment.git
 cd cf-ai-assistant
 ```
 
